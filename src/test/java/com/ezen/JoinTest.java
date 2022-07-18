@@ -12,7 +12,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 public class JoinTest{
 	@Test
 public void joinTest(){
-	System.out.println("테스트이빈다");
+	System.out.println("테스트이빈다ㅇ");
 }
 
 }
